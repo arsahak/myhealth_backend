@@ -1,0 +1,473 @@
+[
+  {
+    "dow": 6,
+    "day": "Saturday",
+    "short": "Sat",
+    "focus": "Full body strength",
+    "minutes": 45,
+    "exercises": [
+      {
+        "name": "Warm-up",
+        "sets": 1,
+        "reps": "5 min brisk walk + arm circles",
+        "move": "armcircles",
+        "steps": [
+          "Stand with arms straight out to the sides.",
+          "Make small circles, then slowly bigger ones.",
+          "Switch direction halfway."
+        ],
+        "tip": "Keep your shoulders down and relaxed."
+      },
+      {
+        "name": "Bodyweight squats",
+        "sets": 3,
+        "reps": "15 reps",
+        "move": "squat",
+        "steps": [
+          "Feet shoulder-width apart, arms out in front.",
+          "Push hips back and bend knees, like sitting on a chair.",
+          "Go down until thighs are level, then stand up through your heels."
+        ],
+        "tip": "Keep your chest up and knees in line with your toes."
+      },
+      {
+        "name": "Push-ups (knee ok)",
+        "sets": 3,
+        "reps": "10 reps",
+        "move": "pushup",
+        "steps": [
+          "Hands under shoulders, body in one straight line.",
+          "Lower your chest until it is just above the floor.",
+          "Push back up. Too hard? Put your knees down."
+        ],
+        "tip": "Don't let your hips sag — squeeze your belly."
+      },
+      {
+        "name": "Dumbbell / bottle rows",
+        "sets": 3,
+        "reps": "12 each arm",
+        "move": "row",
+        "steps": [
+          "Hold a dumbbell or water bottle and bend forward at the hips.",
+          "Keep your back flat and let the arm hang down.",
+          "Pull your elbow up to your ribs, then lower slowly."
+        ],
+        "tip": "Move the elbow, not the shoulder — no jerking."
+      },
+      {
+        "name": "Glute bridge",
+        "sets": 3,
+        "reps": "15 reps",
+        "move": "bridge",
+        "steps": [
+          "Lie on your back, knees bent, feet flat on the floor.",
+          "Squeeze your glutes and lift your hips up.",
+          "Hold 1 second at the top, then lower slowly."
+        ],
+        "tip": "Push through your heels, not your toes."
+      },
+      {
+        "name": "Plank",
+        "sets": 3,
+        "reps": "30 sec",
+        "move": "plank",
+        "steps": [
+          "Forearms on the floor, elbows under shoulders.",
+          "Lift your body so head to heels is one straight line.",
+          "Hold and breathe slowly for the full time."
+        ],
+        "tip": "Hips level — not up in the air, not sagging."
+      },
+      {
+        "name": "Cool-down walk",
+        "sets": 1,
+        "reps": "10 min",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      }
+    ]
+  },
+  {
+    "dow": 0,
+    "day": "Sunday",
+    "short": "Sun",
+    "focus": "Cardio walk",
+    "minutes": 40,
+    "exercises": [
+      {
+        "name": "Brisk walk",
+        "sets": 1,
+        "reps": "40 min, fast pace",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      },
+      {
+        "name": "Stretching",
+        "sets": 1,
+        "reps": "5 min — legs, hips, back",
+        "move": "stretch",
+        "steps": [
+          "Stand with feet a little wider than hips.",
+          "Reach both arms up, then slowly bend to one side.",
+          "Hold 15–20 seconds each side and breathe deeply."
+        ],
+        "tip": "Stretch gently — never bounce or force it."
+      },
+      {
+        "name": "Daily steps",
+        "sets": 1,
+        "reps": "Aim for 8,000+",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      }
+    ]
+  },
+  {
+    "dow": 1,
+    "day": "Monday",
+    "short": "Mon",
+    "focus": "Upper body + core",
+    "minutes": 40,
+    "exercises": [
+      {
+        "name": "Warm-up",
+        "sets": 1,
+        "reps": "5 min jumping jacks / marching",
+        "move": "jumpingjacks",
+        "steps": [
+          "Start standing, feet together, arms down.",
+          "Jump feet out while raising arms overhead.",
+          "Jump back to the start. Keep a steady rhythm."
+        ],
+        "tip": "Land softly on the balls of your feet."
+      },
+      {
+        "name": "Push-ups",
+        "sets": 4,
+        "reps": "10 reps",
+        "move": "pushup",
+        "steps": [
+          "Hands under shoulders, body in one straight line.",
+          "Lower your chest until it is just above the floor.",
+          "Push back up. Too hard? Put your knees down."
+        ],
+        "tip": "Don't let your hips sag — squeeze your belly."
+      },
+      {
+        "name": "Shoulder press (dumbbell / bottles)",
+        "sets": 3,
+        "reps": "12 reps",
+        "move": "press",
+        "steps": [
+          "Hold weights (or bottles) at shoulder height, elbows out.",
+          "Push them straight up overhead.",
+          "Lower slowly back to your shoulders."
+        ],
+        "tip": "Tighten your belly — don't lean back."
+      },
+      {
+        "name": "Bicep curls",
+        "sets": 3,
+        "reps": "12 reps",
+        "move": "curl",
+        "steps": [
+          "Stand tall with weights in your hands, palms forward.",
+          "Bend your elbows and lift the weights to your shoulders.",
+          "Lower slowly all the way down."
+        ],
+        "tip": "Keep elbows close to your sides — no swinging."
+      },
+      {
+        "name": "Chair dips",
+        "sets": 3,
+        "reps": "10 reps",
+        "move": "dips",
+        "steps": [
+          "Sit on the edge of a sturdy chair, hands beside your hips.",
+          "Slide forward and lower your body by bending your elbows.",
+          "Push back up until your arms are straight."
+        ],
+        "tip": "Use a chair that won't slide, keep your back close to it."
+      },
+      {
+        "name": "Crunches",
+        "sets": 3,
+        "reps": "15 reps",
+        "move": "crunch",
+        "steps": [
+          "Lie on your back, knees bent, hands behind your head.",
+          "Lift your shoulders off the floor using your belly.",
+          "Lower slowly. Don't pull on your neck."
+        ],
+        "tip": "Look at the ceiling — keep a fist of space under your chin."
+      },
+      {
+        "name": "Side plank",
+        "sets": 2,
+        "reps": "20 sec each side",
+        "move": "sideplank",
+        "steps": [
+          "Lie on your side with your elbow under your shoulder.",
+          "Lift your hips so your body makes a straight line.",
+          "Hold, then switch to the other side."
+        ],
+        "tip": "Too hard? Drop the bottom knee to the floor."
+      }
+    ]
+  },
+  {
+    "dow": 2,
+    "day": "Tuesday",
+    "short": "Tue",
+    "focus": "Interval cardio (HIIT)",
+    "minutes": 30,
+    "exercises": [
+      {
+        "name": "Warm-up",
+        "sets": 1,
+        "reps": "5 min easy walk",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      },
+      {
+        "name": "Intervals",
+        "sets": 8,
+        "reps": "30 sec fast + 90 sec slow walk",
+        "move": "run",
+        "steps": [
+          "Warm up first with an easy walk.",
+          "Go fast for 30 seconds — jog or high knees.",
+          "Walk slowly for 90 seconds to recover, then repeat."
+        ],
+        "tip": "Push hard on the fast part, relax fully on the slow part."
+      },
+      {
+        "name": "Mountain climbers",
+        "sets": 3,
+        "reps": "20 sec",
+        "move": "climber",
+        "steps": [
+          "Start in a push-up position, arms straight.",
+          "Drive one knee towards your chest.",
+          "Switch legs quickly, like running in place."
+        ],
+        "tip": "Keep your hips low and hands under your shoulders."
+      },
+      {
+        "name": "Cool-down + stretch",
+        "sets": 1,
+        "reps": "8 min",
+        "move": "stretch",
+        "steps": [
+          "Stand with feet a little wider than hips.",
+          "Reach both arms up, then slowly bend to one side.",
+          "Hold 15–20 seconds each side and breathe deeply."
+        ],
+        "tip": "Stretch gently — never bounce or force it."
+      }
+    ]
+  },
+  {
+    "dow": 3,
+    "day": "Wednesday",
+    "short": "Wed",
+    "focus": "Lower body + core",
+    "minutes": 45,
+    "exercises": [
+      {
+        "name": "Warm-up",
+        "sets": 1,
+        "reps": "5 min brisk walk",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      },
+      {
+        "name": "Squats",
+        "sets": 4,
+        "reps": "15 reps",
+        "move": "squat",
+        "steps": [
+          "Feet shoulder-width apart, arms out in front.",
+          "Push hips back and bend knees, like sitting on a chair.",
+          "Go down until thighs are level, then stand up through your heels."
+        ],
+        "tip": "Keep your chest up and knees in line with your toes."
+      },
+      {
+        "name": "Lunges",
+        "sets": 3,
+        "reps": "10 each leg",
+        "move": "lunge",
+        "steps": [
+          "Stand tall with hands on your hips.",
+          "Step one foot forward and lower until both knees bend.",
+          "Push back up to standing, then switch legs."
+        ],
+        "tip": "Front knee stays above the ankle, not past the toes."
+      },
+      {
+        "name": "Step-ups (stairs / chair)",
+        "sets": 3,
+        "reps": "12 each leg",
+        "move": "stepup",
+        "steps": [
+          "Stand facing a stair or a sturdy low step.",
+          "Step up with one foot and push through that heel.",
+          "Bring the other foot up, then step down slowly."
+        ],
+        "tip": "Hold a rail or wall for balance if you need it."
+      },
+      {
+        "name": "Calf raises",
+        "sets": 3,
+        "reps": "20 reps",
+        "move": "calf",
+        "steps": [
+          "Stand tall, hold a wall for balance.",
+          "Rise up onto your toes as high as you can.",
+          "Lower your heels slowly."
+        ],
+        "tip": "Going down slowly works the muscle best."
+      },
+      {
+        "name": "Leg raises",
+        "sets": 3,
+        "reps": "12 reps",
+        "move": "legraise",
+        "steps": [
+          "Lie on your back, legs straight, hands by your sides.",
+          "Lift both legs up slowly, keeping them straight.",
+          "Lower slowly without touching the floor."
+        ],
+        "tip": "Press your lower back into the floor the whole time."
+      },
+      {
+        "name": "Plank",
+        "sets": 3,
+        "reps": "40 sec",
+        "move": "plank",
+        "steps": [
+          "Forearms on the floor, elbows under shoulders.",
+          "Lift your body so head to heels is one straight line.",
+          "Hold and breathe slowly for the full time."
+        ],
+        "tip": "Hips level — not up in the air, not sagging."
+      }
+    ]
+  },
+  {
+    "dow": 4,
+    "day": "Thursday",
+    "short": "Thu",
+    "focus": "Long walk / cycling",
+    "minutes": 50,
+    "exercises": [
+      {
+        "name": "Long walk or cycling",
+        "sets": 1,
+        "reps": "45–60 min, steady pace",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      },
+      {
+        "name": "Stretching",
+        "sets": 1,
+        "reps": "10 min full body",
+        "move": "stretch",
+        "steps": [
+          "Stand with feet a little wider than hips.",
+          "Reach both arms up, then slowly bend to one side.",
+          "Hold 15–20 seconds each side and breathe deeply."
+        ],
+        "tip": "Stretch gently — never bounce or force it."
+      },
+      {
+        "name": "Daily steps",
+        "sets": 1,
+        "reps": "Aim for 10,000",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      }
+    ]
+  },
+  {
+    "dow": 5,
+    "day": "Friday",
+    "short": "Fri",
+    "focus": "Rest + light stretching",
+    "minutes": 15,
+    "exercises": [
+      {
+        "name": "Light stretching / yoga",
+        "sets": 1,
+        "reps": "15 min",
+        "move": "yoga",
+        "steps": [
+          "Stand on one leg, put the other foot on your inner calf or thigh.",
+          "Hands together at your chest and find your balance.",
+          "Raise your arms overhead and breathe slowly."
+        ],
+        "tip": "Look at one fixed point to keep your balance."
+      },
+      {
+        "name": "Easy walk after lunch",
+        "sets": 1,
+        "reps": "15–20 min",
+        "move": "walk",
+        "steps": [
+          "Stand tall, look ahead, shoulders relaxed.",
+          "Swing your arms naturally with each step.",
+          "Walk fast enough that talking feels a little hard."
+        ],
+        "tip": "A short walk after every meal is a great habit."
+      },
+      {
+        "name": "Weigh yourself",
+        "sets": 1,
+        "reps": "Morning, empty stomach — log it in Me",
+        "move": "weigh",
+        "steps": [
+          "Weigh in the morning after the toilet, before eating.",
+          "Same scale, same place, light clothes.",
+          "Write the number in the Me tab."
+        ],
+        "tip": "Weight goes up and down daily — watch the weekly trend."
+      }
+    ]
+  }
+]

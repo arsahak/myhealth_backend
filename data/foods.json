@@ -1,0 +1,880 @@
+{
+  "mealOptions": [
+    {
+      "slug": "ruti-egg-sabji",
+      "treat": false,
+      "slot": "breakfast",
+      "name": "Ruti, boiled eggs & sabji",
+      "items": [
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        },
+        {
+          "name": "Boiled egg",
+          "amount": "2 pcs · 100 g",
+          "kind": "egg"
+        },
+        {
+          "name": "Mixed sabji",
+          "amount": "1 bowl · 150 g",
+          "kind": "sabji"
+        }
+      ],
+      "kcal": 465,
+      "protein": 23,
+      "tip": "Make ruti on a dry hot tawa — no oil or ghee. Cook the sabji with just 1 tsp oil and lots of onion and green chili for taste."
+    },
+    {
+      "slug": "oats-banana",
+      "treat": false,
+      "slot": "breakfast",
+      "name": "Oats with milk & banana",
+      "items": [
+        {
+          "name": "Oats (dry)",
+          "amount": "⅔ cup · 60 g",
+          "kind": "oats"
+        },
+        {
+          "name": "Milk",
+          "amount": "1 glass · 250 ml",
+          "kind": "milk"
+        },
+        {
+          "name": "Banana",
+          "amount": "1 medium · 100 g",
+          "kind": "banana"
+        },
+        {
+          "name": "Almonds / peanuts",
+          "amount": "a few · 10 g",
+          "kind": "nuts"
+        }
+      ],
+      "kcal": 530,
+      "protein": 19,
+      "tip": "Cook the oats in the milk for 3–4 minutes. Slice banana on top instead of sugar — a pinch of cinnamon adds sweetness."
+    },
+    {
+      "slug": "omelette-ruti",
+      "treat": false,
+      "slot": "breakfast",
+      "name": "Egg omelette & ruti",
+      "items": [
+        {
+          "name": "Omelette",
+          "amount": "2 eggs · 100 g",
+          "kind": "egg"
+        },
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        },
+        {
+          "name": "Cucumber",
+          "amount": "½ · 100 g",
+          "kind": "cucumber"
+        }
+      ],
+      "kcal": 430,
+      "protein": 20,
+      "tip": "Use a non-stick pan with 1 tsp oil. Add onion, tomato, chili and coriander — more filling with almost no extra calories."
+    },
+    {
+      "slug": "chira-doi",
+      "treat": false,
+      "slot": "breakfast",
+      "name": "Chira with doi & banana",
+      "items": [
+        {
+          "name": "Chira (dry)",
+          "amount": "½ cup · 60 g",
+          "kind": "chira"
+        },
+        {
+          "name": "Plain doi",
+          "amount": "1 bowl · 200 g",
+          "kind": "doi"
+        },
+        {
+          "name": "Banana",
+          "amount": "1 medium · 100 g",
+          "kind": "banana"
+        }
+      ],
+      "kcal": 430,
+      "protein": 12,
+      "tip": "Rinse the chira, soak 5 minutes and drain well. Mix with tok doi — skip the sugar and gur."
+    },
+    {
+      "slug": "ruti-dal-egg",
+      "treat": false,
+      "slot": "breakfast",
+      "name": "Ruti, dal & boiled egg",
+      "items": [
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        },
+        {
+          "name": "Masoor dal",
+          "amount": "1 bowl · 150 g",
+          "kind": "dal"
+        },
+        {
+          "name": "Boiled egg",
+          "amount": "1 pc · 50 g",
+          "kind": "egg"
+        }
+      ],
+      "kcal": 420,
+      "protein": 21,
+      "tip": "Keep some of last night's dal for breakfast. Warm it with a splash of water — no extra tadka needed."
+    },
+    {
+      "slug": "egg-bhaji-ruti",
+      "treat": false,
+      "slot": "breakfast",
+      "name": "Egg bhaji, ruti & sabji",
+      "items": [
+        {
+          "name": "Egg bhaji",
+          "amount": "2 eggs · 100 g",
+          "kind": "egg"
+        },
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        },
+        {
+          "name": "Sabji",
+          "amount": "1 small bowl · 100 g",
+          "kind": "sabji"
+        }
+      ],
+      "kcal": 475,
+      "protein": 22,
+      "tip": "Scramble the eggs on low heat with onion and chili in 1 tsp oil. Low heat keeps them soft without adding more oil."
+    },
+    {
+      "slug": "fruit-tea",
+      "treat": false,
+      "slot": "snack",
+      "name": "Apple or guava + green tea",
+      "items": [
+        {
+          "name": "Apple / guava",
+          "amount": "1 medium · 150 g",
+          "kind": "apple"
+        },
+        {
+          "name": "Green tea",
+          "amount": "1 cup · no sugar",
+          "kind": "tea"
+        }
+      ],
+      "kcal": 80,
+      "protein": 1,
+      "tip": "Eat fruit whole, not as juice — the fibre keeps you full for longer."
+    },
+    {
+      "slug": "egg-cucumber",
+      "treat": false,
+      "slot": "snack",
+      "name": "Boiled egg & cucumber",
+      "items": [
+        {
+          "name": "Boiled egg",
+          "amount": "1 pc · 50 g",
+          "kind": "egg"
+        },
+        {
+          "name": "Cucumber",
+          "amount": "1 · 150 g",
+          "kind": "cucumber"
+        }
+      ],
+      "kcal": 100,
+      "protein": 7,
+      "tip": "Boil eggs for 9–10 minutes, then cool them in cold water so they peel easily. Keep 3–4 ready in the fridge."
+    },
+    {
+      "slug": "chola",
+      "treat": false,
+      "slot": "snack",
+      "name": "Roasted chola",
+      "items": [
+        {
+          "name": "Chola boot (dry weight)",
+          "amount": "1 small bowl · 40 g",
+          "kind": "chola"
+        }
+      ],
+      "kcal": 150,
+      "protein": 8,
+      "tip": "Soak chickpeas overnight, boil until soft, then dry-roast with salt, chili and lemon. No oil needed."
+    },
+    {
+      "slug": "doi",
+      "treat": false,
+      "slot": "snack",
+      "name": "Plain doi",
+      "items": [
+        {
+          "name": "Tok doi (no sugar)",
+          "amount": "1 bowl · 150 g",
+          "kind": "doi"
+        }
+      ],
+      "kcal": 95,
+      "protein": 5,
+      "tip": "Pick sour doi without sugar. A pinch of roasted cumin and black salt makes it tasty."
+    },
+    {
+      "slug": "nuts-tea",
+      "treat": false,
+      "slot": "snack",
+      "name": "Nuts & green tea",
+      "items": [
+        {
+          "name": "Almonds / peanuts",
+          "amount": "10–12 pcs · 15 g",
+          "kind": "nuts"
+        },
+        {
+          "name": "Green tea",
+          "amount": "1 cup · no sugar",
+          "kind": "tea"
+        }
+      ],
+      "kcal": 90,
+      "protein": 3,
+      "tip": "Count them into your palm — nuts are healthy but very easy to overeat."
+    },
+    {
+      "slug": "seasonal-fruit",
+      "treat": false,
+      "slot": "snack",
+      "name": "Seasonal fruit",
+      "items": [
+        {
+          "name": "Papaya / orange / guava",
+          "amount": "1 cup · 150 g",
+          "kind": "papaya"
+        }
+      ],
+      "kcal": 65,
+      "protein": 1,
+      "tip": "Pick what's in season — papaya, orange, guava, jamrul. Cheaper and fresher."
+    },
+    {
+      "slug": "veg-sticks",
+      "treat": false,
+      "slot": "snack",
+      "name": "Cucumber & carrot sticks",
+      "items": [
+        {
+          "name": "Cucumber",
+          "amount": "1 · 100 g",
+          "kind": "cucumber"
+        },
+        {
+          "name": "Carrot",
+          "amount": "1 · 80 g",
+          "kind": "carrot"
+        }
+      ],
+      "kcal": 50,
+      "protein": 1,
+      "tip": "Cut a box of sticks in the morning. Sprinkle salt, lemon and a little chili powder."
+    },
+    {
+      "slug": "muri",
+      "treat": false,
+      "slot": "snack",
+      "name": "Muri makha",
+      "items": [
+        {
+          "name": "Muri",
+          "amount": "1 cup · 25 g",
+          "kind": "muri"
+        },
+        {
+          "name": "Onion, cucumber, tomato",
+          "amount": "50 g",
+          "kind": "salad"
+        }
+      ],
+      "kcal": 140,
+      "protein": 2,
+      "tip": "Lots of onion, cucumber and tomato with only 1 tsp mustard oil. Skip the chanachur — it's fried."
+    },
+    {
+      "slug": "banana",
+      "treat": false,
+      "slot": "snack",
+      "name": "Banana",
+      "items": [
+        {
+          "name": "Banana",
+          "amount": "1 medium · 100 g",
+          "kind": "banana"
+        }
+      ],
+      "kcal": 90,
+      "protein": 1,
+      "tip": "Great 30–60 minutes before a workout for quick energy."
+    },
+    {
+      "slug": "rice-fish",
+      "treat": false,
+      "slot": "lunch",
+      "name": "Rice, fish curry, dal & salad",
+      "items": [
+        {
+          "name": "Rice (cooked)",
+          "amount": "1 cup · 180 g",
+          "kind": "rice"
+        },
+        {
+          "name": "Fish curry (rui / tilapia)",
+          "amount": "1 piece · 120 g",
+          "kind": "fish"
+        },
+        {
+          "name": "Masoor dal",
+          "amount": "1 bowl · 150 g",
+          "kind": "dal"
+        },
+        {
+          "name": "Salad",
+          "amount": "1 plate · 100 g",
+          "kind": "salad"
+        }
+      ],
+      "kcal": 540,
+      "protein": 32,
+      "tip": "Make the curry with 1 tsp oil: fry onion and spices, add the fish, then water — don't deep-fry the fish first. Keep dal thin with a ½ tsp tadka."
+    },
+    {
+      "slug": "rice-chicken",
+      "treat": false,
+      "slot": "lunch",
+      "name": "Rice, chicken curry & sabji",
+      "items": [
+        {
+          "name": "Rice (cooked)",
+          "amount": "1 cup · 180 g",
+          "kind": "rice"
+        },
+        {
+          "name": "Chicken curry (no skin)",
+          "amount": "2 pieces · 120 g",
+          "kind": "chicken"
+        },
+        {
+          "name": "Lau / shak sabji",
+          "amount": "1 bowl · 150 g",
+          "kind": "sabji"
+        }
+      ],
+      "kcal": 490,
+      "protein": 31,
+      "tip": "Take the skin off. Cook with onion, ginger-garlic paste and tomato in 1 tsp oil, and let it simmer in its own juices."
+    },
+    {
+      "slug": "rice-fish-shak",
+      "treat": false,
+      "slot": "lunch",
+      "name": "Rice, fish, palong shak & dal",
+      "items": [
+        {
+          "name": "Rice (cooked)",
+          "amount": "1 cup · 180 g",
+          "kind": "rice"
+        },
+        {
+          "name": "Fish curry",
+          "amount": "1 piece · 120 g",
+          "kind": "fish"
+        },
+        {
+          "name": "Palong shak",
+          "amount": "1 bowl · 100 g",
+          "kind": "sabji"
+        },
+        {
+          "name": "Masoor dal",
+          "amount": "1 bowl · 150 g",
+          "kind": "dal"
+        }
+      ],
+      "kcal": 545,
+      "protein": 34,
+      "tip": "Stir-fry the shak with garlic and ½ tsp oil for 3–4 minutes — short cooking keeps the vitamins."
+    },
+    {
+      "slug": "rice-beef",
+      "treat": false,
+      "slot": "lunch",
+      "name": "Rice, lean beef, dal & salad",
+      "items": [
+        {
+          "name": "Rice (cooked)",
+          "amount": "1 cup · 180 g",
+          "kind": "rice"
+        },
+        {
+          "name": "Beef curry (lean)",
+          "amount": "4–5 pieces · 100 g",
+          "kind": "beef"
+        },
+        {
+          "name": "Masoor dal",
+          "amount": "1 bowl · 150 g",
+          "kind": "dal"
+        },
+        {
+          "name": "Salad",
+          "amount": "1 plate · 100 g",
+          "kind": "salad"
+        }
+      ],
+      "kcal": 595,
+      "protein": 39,
+      "tip": "Cut off all visible fat. Cook slowly on low heat with the spices, adding water instead of extra oil."
+    },
+    {
+      "slug": "polao",
+      "treat": true,
+      "slot": "lunch",
+      "name": "Friday treat: polao / biryani",
+      "items": [
+        {
+          "name": "Polao / biryani",
+          "amount": "1 small plate · 200 g",
+          "kind": "polao"
+        },
+        {
+          "name": "Chicken / mutton",
+          "amount": "1 piece · 80 g",
+          "kind": "chicken"
+        },
+        {
+          "name": "Salad",
+          "amount": "1 big plate · 150 g",
+          "kind": "salad"
+        }
+      ],
+      "kcal": 620,
+      "protein": 28,
+      "tip": "Enjoy it! Just take a small plate — more meat, less rice, a big salad, and skip the soft drink."
+    },
+    {
+      "slug": "grilled-chicken",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Grilled chicken, vegetables & ruti",
+      "items": [
+        {
+          "name": "Chicken breast (grilled)",
+          "amount": "150 g",
+          "kind": "chicken"
+        },
+        {
+          "name": "Sautéed vegetables",
+          "amount": "1 plate · 200 g",
+          "kind": "sabji"
+        },
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        }
+      ],
+      "kcal": 520,
+      "protein": 45,
+      "tip": "Marinate the chicken in doi, ginger-garlic, chili and lemon for 30 minutes. Cook on a hot tawa with ½ tsp oil, 6–7 minutes each side."
+    },
+    {
+      "slug": "ruti-dal",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Ruti, mixed dal, egg & salad",
+      "items": [
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        },
+        {
+          "name": "Mixed dal (masoor + mung)",
+          "amount": "1 big bowl · 200 g",
+          "kind": "dal"
+        },
+        {
+          "name": "Boiled egg",
+          "amount": "1 pc · 50 g",
+          "kind": "egg"
+        },
+        {
+          "name": "Salad",
+          "amount": "1 plate · 100 g",
+          "kind": "salad"
+        }
+      ],
+      "kcal": 500,
+      "protein": 25,
+      "tip": "Mixing masoor and mung dal gives more protein. Pressure-cook, then a light garlic tadka with ½ tsp oil."
+    },
+    {
+      "slug": "chicken-soup",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Chicken & vegetable soup + ruti",
+      "items": [
+        {
+          "name": "Chicken vegetable soup",
+          "amount": "1 big bowl · 350 ml",
+          "kind": "soup"
+        },
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        }
+      ],
+      "kcal": 390,
+      "protein": 30,
+      "tip": "Boil 100 g chicken with ginger, garlic, carrot, papaya and beans. Add black pepper and lemon at the end — no cornflour."
+    },
+    {
+      "slug": "fish-veg",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Fish curry, vegetables & 1 ruti",
+      "items": [
+        {
+          "name": "Fish curry",
+          "amount": "1 big piece · 150 g",
+          "kind": "fish"
+        },
+        {
+          "name": "Mixed vegetables",
+          "amount": "1 plate · 200 g",
+          "kind": "sabji"
+        },
+        {
+          "name": "Atta ruti",
+          "amount": "1 pc · 40 g",
+          "kind": "ruti"
+        }
+      ],
+      "kcal": 395,
+      "protein": 31,
+      "tip": "Skip rice at night 2–3 days a week. Cook the fish with plenty of vegetables so the plate still feels full."
+    },
+    {
+      "slug": "baked-fish",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Baked fish, vegetables & ½ cup rice",
+      "items": [
+        {
+          "name": "Baked / tawa fish",
+          "amount": "180 g",
+          "kind": "fish"
+        },
+        {
+          "name": "Vegetables",
+          "amount": "1 plate · 150 g",
+          "kind": "sabji"
+        },
+        {
+          "name": "Rice (cooked)",
+          "amount": "½ cup · 90 g",
+          "kind": "rice"
+        }
+      ],
+      "kcal": 400,
+      "protein": 35,
+      "tip": "Rub the fish with turmeric, chili, salt and lemon. Bake or air-fry 15 minutes at 200°C, or cook on a tawa with ½ tsp oil."
+    },
+    {
+      "slug": "ruti-chicken",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Ruti, chicken curry & salad",
+      "items": [
+        {
+          "name": "Atta ruti",
+          "amount": "2 pcs · 80 g",
+          "kind": "ruti"
+        },
+        {
+          "name": "Chicken curry (no skin)",
+          "amount": "150 g",
+          "kind": "chicken"
+        },
+        {
+          "name": "Salad",
+          "amount": "1 plate · 100 g",
+          "kind": "salad"
+        }
+      ],
+      "kcal": 500,
+      "protein": 40,
+      "tip": "Cook a bigger pot of chicken at lunch and keep a portion for dinner — saves time and oil."
+    },
+    {
+      "slug": "veg-soup-dal",
+      "treat": false,
+      "slot": "dinner",
+      "name": "Light vegetable soup, dal & ruti",
+      "items": [
+        {
+          "name": "Vegetable soup",
+          "amount": "1 big bowl · 300 ml",
+          "kind": "soup"
+        },
+        {
+          "name": "Masoor dal",
+          "amount": "1 bowl · 150 g",
+          "kind": "dal"
+        },
+        {
+          "name": "Atta ruti",
+          "amount": "1 pc · 40 g",
+          "kind": "ruti"
+        }
+      ],
+      "kcal": 350,
+      "protein": 14,
+      "tip": "After a heavy lunch keep dinner light. A big bowl of soup fills you up with very few calories."
+    }
+  ],
+  "mealPlans": [
+    {
+      "dow": 6,
+      "day": "Saturday",
+      "meals": [
+        {
+          "time": "8:00",
+          "label": "Breakfast",
+          "option": "ruti-egg-sabji"
+        },
+        {
+          "time": "11:00",
+          "label": "Snack",
+          "option": "fruit-tea"
+        },
+        {
+          "time": "14:00",
+          "label": "Lunch",
+          "option": "rice-fish"
+        },
+        {
+          "time": "17:30",
+          "label": "Snack",
+          "option": "chola"
+        },
+        {
+          "time": "20:30",
+          "label": "Dinner",
+          "option": "grilled-chicken"
+        }
+      ]
+    },
+    {
+      "dow": 0,
+      "day": "Sunday",
+      "meals": [
+        {
+          "time": "8:00",
+          "label": "Breakfast",
+          "option": "oats-banana"
+        },
+        {
+          "time": "11:00",
+          "label": "Snack",
+          "option": "egg-cucumber"
+        },
+        {
+          "time": "14:00",
+          "label": "Lunch",
+          "option": "rice-chicken"
+        },
+        {
+          "time": "17:30",
+          "label": "Snack",
+          "option": "doi"
+        },
+        {
+          "time": "20:30",
+          "label": "Dinner",
+          "option": "ruti-dal"
+        }
+      ]
+    },
+    {
+      "dow": 1,
+      "day": "Monday",
+      "meals": [
+        {
+          "time": "8:00",
+          "label": "Breakfast",
+          "option": "omelette-ruti"
+        },
+        {
+          "time": "11:00",
+          "label": "Snack",
+          "option": "seasonal-fruit"
+        },
+        {
+          "time": "14:00",
+          "label": "Lunch",
+          "option": "rice-fish-shak"
+        },
+        {
+          "time": "17:30",
+          "label": "Snack",
+          "option": "nuts-tea"
+        },
+        {
+          "time": "20:30",
+          "label": "Dinner",
+          "option": "chicken-soup"
+        }
+      ]
+    },
+    {
+      "dow": 2,
+      "day": "Tuesday",
+      "meals": [
+        {
+          "time": "8:00",
+          "label": "Breakfast",
+          "option": "chira-doi"
+        },
+        {
+          "time": "11:00",
+          "label": "Snack",
+          "option": "egg-cucumber"
+        },
+        {
+          "time": "14:00",
+          "label": "Lunch",
+          "option": "rice-beef"
+        },
+        {
+          "time": "17:30",
+          "label": "Snack",
+          "option": "fruit-tea"
+        },
+        {
+          "time": "20:30",
+          "label": "Dinner",
+          "option": "fish-veg"
+        }
+      ]
+    },
+    {
+      "dow": 3,
+      "day": "Wednesday",
+      "meals": [
+        {
+          "time": "8:00",
+          "label": "Breakfast",
+          "option": "ruti-dal-egg"
+        },
+        {
+          "time": "11:00",
+          "label": "Snack",
+          "option": "veg-sticks"
+        },
+        {
+          "time": "14:00",
+          "label": "Lunch",
+          "option": "rice-chicken"
+        },
+        {
+          "time": "17:30",
+          "label": "Snack",
+          "option": "muri"
+        },
+        {
+          "time": "20:30",
+          "label": "Dinner",
+          "option": "baked-fish"
+        }
+      ]
+    },
+    {
+      "dow": 4,
+      "day": "Thursday",
+      "meals": [
+        {
+          "time": "8:00",
+          "label": "Breakfast",
+          "option": "oats-banana"
+        },
+        {
+          "time": "11:00",
+          "label": "Snack",
+          "option": "banana"
+        },
+        {
+          "time": "14:00",
+          "label": "Lunch",
+          "option": "rice-fish"
+        },
+        {
+          "time": "17:30",
+          "label": "Snack",
+          "option": "doi"
+        },
+        {
+          "time": "20:30",
+          "label": "Dinner",
+          "option": "ruti-chicken"
+        }
+      ]
+    },
+    {
+      "dow": 5,
+      "day": "Friday",
+      "meals": [
+        {
+          "time": "9:00",
+          "label": "Breakfast",
+          "option": "egg-bhaji-ruti"
+        },
+        {
+          "time": "12:00",
+          "label": "Snack",
+          "option": "seasonal-fruit"
+        },
+        {
+          "time": "14:30",
+          "label": "Lunch",
+          "option": "polao"
+        },
+        {
+          "time": "18:00",
+          "label": "Snack",
+          "option": "nuts-tea"
+        },
+        {
+          "time": "21:00",
+          "label": "Dinner",
+          "option": "veg-soup-dal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "AR Sahak",
+  "age": 29,
+  "gender": "Male",
+  "startWeightKg": 80,
+  "goalWeightKg": 70,
+  "startDate": "2026-10-25",
+  "goalDate": "2027-06-15",
+  "dailyRules": [
+    {
+      "title": "Water",
+      "value": "3 litres",
+      "note": "Start the day with 2 glasses"
+    },
+    {
+      "title": "Sleep",
+      "value": "7–8 hours",
+      "note": "Bad sleep = more hunger"
+    },
+    {
+      "title": "Steps",
+      "value": "8,000+",
+      "note": "Walk after lunch & dinner"
+    },
+    {
+      "title": "Avoid",
+      "value": "Sugar & fried",
+      "note": "Soft drinks, sweets, singara, puri"
+    }
+  ]
+}
